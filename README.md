@@ -28,4 +28,5 @@ UI design for the high fidelity. This is on InVision...
 ===================================================================
 Online Shop App - Flutter UI - Speed Code. 2020. [video]. [a link] https://www.youtube.com/watch?v=XBKzpTz65Io&list=RDCMUCJm7i4g4z7ZGcJA_HKHLCVw&index=1
  
- Everything about the app can be found on the link to the high and low fidelity 
+ Everything about the app can be found on the link to the high and low fidelity.
+ Also from the video they had

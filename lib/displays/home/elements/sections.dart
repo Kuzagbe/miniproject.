@@ -6,8 +6,8 @@ class Sections extends StatefulWidget {
 }
 
 class _SectionsState extends State<Sections> {
-  List<String> categories = ["fruits & Veges"];
-  // By default our first item will be selected
+  List<String> categories = ["Fruits & Veges", "Fruits", "Vegetables", "Hampers"];
+
   int selectedIndex = 0;
   @override
   Widget build(BuildContext context) {
