@@ -22,11 +22,47 @@ NOTE:
 To have a better understanding of what I did, the link below contains the low fidelity
 prototype and high fidelity prototype and also a YouTube Video of how I interacted with 
 UI design for the high fidelity. This is on InVision...
-[a link] (https://chriscofie.invisionapp.com/freehand/Mobile-Development-Mini-Project-kL6GepE6O)
 
-##REFERENCE
-===================================================================
-Online Shop App - Flutter UI - Speed Code. 2020. [video]. [a link] https://www.youtube.com/watch?v=XBKzpTz65Io&list=RDCMUCJm7i4g4z7ZGcJA_HKHLCVw&index=1
+[a link] (https://chriscofie.invisionapp.com/freehand/Mobile-Development-Mini-Project-kL6GepE6O)
  
- Everything about the app can be found on the link to the high and low fidelity.
- Also from the video they had
+ ##RESOURCES USED
+ NOTE: Even though I had inspiration from a YouTube video I wanted to explore more so...
+ 1) In the main dart file i decided to use the themeData to share colors and font style but I didn't use it  through
+ because I wanted to touch on what was taught in class which is using the background color components.
+ 
+ 2) Also instead of using Icon alone I decided to import svg file from the net and use the two. The 
+ svg files were used in for the topNavigation bar and some of the cart file.
+ [a link] (https://www.flaticon.com/free-icons/svg-file)
+   [a link] ( https://api.flutter.dev/flutter/widgets/Icon-class.html)
+   
+ 3) Got some inspiration from [2] (https://dribbble.com/shots/14799476-Gronik-Grocery-Shop-Mobile-App)
+ 
+ 
+ 
+ +                                                                         +
+ + +                                                                      + +
+ +  +                                                                    +  +
+ +    +                                                                 +   +
+ +      +                                                              +    +
+ +        +                                                           +     +
+ +          +                                                        +      +
+ +            +                                                     +       +
+ +                                                                          +
+ +                                                                          +
+ +                                                                          +
+ +                                                                          +
+ +                                                                          +
+ +                                                                          +
+ 
+ 
+ 
+ 
+ 
+ 
+ ##REFERENCE
+ ===================================================================
+ [1]Online Shop App - Flutter UI - Speed Code. 2020. [video]. [a link] https://www.youtube.com/watch?v=XBKzpTz65Io&list=RDCMUCJm7i4g4z7ZGcJA_HKHLCVw&index=1
+ 
+ [2]"Gronik - Grocery Shop Mobile App", Dribbble, 2021. [Online]. Available: https://dribbble.com/shots/14799476-Gronik-Grocery-Shop-Mobile-App. [Accessed: 11- Feb- 2021]
+ 
+ [3]"241 Free vector icons of svg file", Flaticon, 2021. [Online]. Available: https://www.flaticon.com/free-icons/svg-file. [Accessed: 11- Feb- 2021]
