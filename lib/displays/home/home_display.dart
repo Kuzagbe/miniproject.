@@ -9,6 +9,26 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: buildAppBar(),
       body: Body(),
+      bottomNavigationBar: BottomNavigationBar(
+        backgroundColor: Colors.blueGrey,
+        items: const <BottomNavigationBarItem>[
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label: 'Home',
+            backgroundColor: Colors.blue,
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.shop),
+            label: 'Shop',
+              backgroundColor: Colors.blueGrey
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.settings),
+            label: 'Settings',
+              backgroundColor: Colors.blueGrey,
+          ),
+        ],
+      ),
     );
   }
 
@@ -44,3 +64,4 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
